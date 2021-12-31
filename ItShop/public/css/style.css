@@ -1,0 +1,32 @@
+.delcat{background-color: red; border-color: red; color: white;}
+.form, .h1{text-align: center; margin: 20px;}
+.up{display: flex; flex-wrap: wrap; margin-left: 40%; margin-bottom: 20px;}
+.con{display: flex; flex-wrap: wrap;}
+.updateadd{margin: 5px; text-align: center;}
+.input{text-align: center;}
+.cout, .product{background-color: white; margin: 20px; text-align: center; padding-top: 90px; border: 0.1px solid grey; border-radius: 20px;}
+.cout{width: 300px; min-height: 300px; background-image: url("/img/step.png"); background-size: 300px 300px;}
+.product{width: 400px; height: 400px; background-image: url("/img/step.png"); background-size: 400px 400px;}
+.foo{width: 300px; height: 50px; background-color: #f4faf6; color: #00a046; margin: 20px; padding: 10px;}
+.quantity{width: 300px; height: 50px; background-color: white; margin: 20px; padding: 10px; border: 0.1px solid grey;}
+.price{width: 300px; min-height: 50px; max-height: 80px; background-color: white; margin: 20px; padding: 10px; border: 0.1px solid grey;}
+.pro{text-align: center;}
+.sp{margin-bottom: 10px;}
+.text{width: 100px; margin: 10px;}
+.h4{margin-left: 20px; }
+.reset{margin: 10px;}
+.resetchangebutton{color: white; background-color: #f0ad4e; border-color: #eea236;}
+.filterbutton{color: white; background-color: #337ab7; border-color: #2e6da4;}
+.filterbuttonpick, .delcatn{color: white; margin-left: 40%; width: 400px;height: 50px;}
+.filterbuttonpick{background-color: #337ab7;border-color: #2e6da4;}
+.delcatn{background-color: red;border-color: red;}
+.st{font-size: 30px;}
+.concategory{margin-bottom: 20px;background-color: white;border: 1px solid transparent;border-radius: 4px;text-align: center;}
+.category{margin: 10px;box-shadow: 0 0px 1px; padding: 10px;}   
+.catname{font-size: 40px;color: blue;text-decoration: none;}
+.catname:hover{color: blue;text-decoration: none;}
+.add{color: white;background-color: #5cb85c;border-color: #5cb85c;}
+.ww{font-size: 40px;}
+.kol{width: 200px; height: 50px; margin: 10px;}
+.delproduct{color: white; background-color: red;border-color: red;}
+.delproductpick{color: white; margin-left: 40%; width: 400px;height: 50px; background-color: red;border-color: red;}
